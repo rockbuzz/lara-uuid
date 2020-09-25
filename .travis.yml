@@ -13,4 +13,4 @@ install:
   - composer install
 
 script:
-  - ./vendor/bin/phpunit --testdox
+  - ./vendor/bin/phpunit
