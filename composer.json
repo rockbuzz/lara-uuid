@@ -5,12 +5,12 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "TiagoDevWeb",
-      "email": "tiago.desenvolvedorweb@gmail.com"
+      "name": "Tiago Lopes",
+      "email": "tiago@rockbuzz.com.br"
     },
     {
       "name": "Paulo Henrique P. Scheuermann",
-      "email": "paetzold44@gmail.com"
+      "email": "paulo@rockbuzz.com.br"
     }
   ],
   "autoload": {
@@ -24,7 +24,7 @@
     }
   },
   "require": {
-    "php": "^7.2"
+    "php": "^7.3"
   },
   "require-dev": {
     "orchestra/testbench": "^4.0",
